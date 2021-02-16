@@ -1,0 +1,302 @@
+# Discover dissatisfaction drivers with Multiple Linear Regression {#Project7}
+
+```{r 07.0, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# Install all packages (if not already)
+pkg <- c("gpairs", "corrplot", "coefplot", "ggplot2", "car")
+new.pkg <- pkg[!(pkg %in% installed.packages()[, "Package"])]
+    if (length(new.pkg)){
+        install.packages(new.pkg, dependencies = TRUE)
+    sapply(pkg, require, character.only = TRUE)
+    }
+
+# Load all packages
+for(i in 1:length(pkg)){
+        library(pkg[[i]], character.only = TRUE)
+}
+
+# Import data
+dat <- read.table(file = "./data/07_dat.csv", header = TRUE)
+```
+
+There are many applications of regression in human-centered research. Today, I’ll focus on something called a “drivers analysis”. It’s a technique that identifies which variables most significantly “drive”, or “impact”, an overall variable. This shows a company where to best concentrate its efforts for improving metrics like overall satisfaction with an product or Net Promoter Score (NPS).
+
+<br>
+
+Regression models take an outcome variable and a set of predictor variables as input. The regression model tells us the relationship between the predictor variables and the outcome variable, specifically how the predictor variables “impact” the outcome variable (if at all). Visually, we can think of linear regressions as lines or planes that “best fit” our data. And these lines and planes can be represented as an equation as well.
+
+<br> <br>
+
+<center>
+**$Y = \beta_{0} + \beta_{1}x_{1} + \beta_{2}x_{2} + \cdots + \beta_{n}x_{n}$**
+</center>
+
+<br>
+
+**$Y$** = outcome variable
+
+**$x_{n}$** = predictor variable n
+
+**$beta_{n}$** = coefficient of predictor variable n
+
+**$beta_{0}$** = intercept/constant
+
+<br> <br>
+
+One of the most important things for us is the sign and the magnitude of the coefficient for each of the predictor variables. Again, this tells us how each predictor variable “impacts” the outcome variable.
+
+<br> <br> <br>
+
+## Introduction
+Let’s back up a bit and talk about how to select outcome and predictor variables. Put simply, an outcome variable is a metric that is important to your company and something your company wants to improve or influence. This could be something like overall satisfaction with a product or service. It could also be a metric your company tracks such as Customer Satisfaction Score (CSAT) or Net Promoter Score (NPS).
+
+<br>
+
+You also must collect relevant predictor variables in the survey. Use your subject-matter expertise and think of which variables might be related to or have an influence on the outcome variable of interest. 
+
+<br>
+
+For example, take the case of a simple app with 4 major features. Our outcome variable is overall satisfaction with the app. And our predictor variables will be individual satisfaction ratings for each of the 4 features. Let’s also throw in a customer experience score as a final predictor. In total we have 5 predictor variables and we will regress them on "overall app satisfaction".
+
+<br>
+
+<center>
+**$overall = \beta_{0} + \beta_{1}(CX\_score) + \beta_{2}(featureA) + \beta_{3}(featureB) + \beta_{4}(featureC) + \beta_{5}(featureD)$**
+</center>
+
+<br> <br>
+
+Make sure to write out your hypotheses before fitting the model. This helps clarify your thinking and rationale for conducting a regression analysis in the first place.
+
+<br>
+
+<center>
+**"Customer Experience score and feature satisfaction ratings impact overall satisfaction with App X."**
+<br>
+$H_{0}: \beta_{1} = \beta_{2} = \beta_{3} = \beta_{4} = \beta_{5} = 0$
+<br>
+$H_{1}$: At least one $\beta$ is non-zero
+</center>
+
+<br> <br>
+
+A note on model interpretability: Most resources warn against increasing model complexity by adding many predictor variables. The best models are parsimonious and easy to explain in simple terms.
+
+<br> <br> <br>
+
+## Analysis
+It is helpful to get your variables all in one place. Create a data frame that contains your predictor variables and the outcome variable. In this case, the first 5 columns are our predictor variables and the last is our outcome variable (i.e. overall app satisfaction). Each of the variables in our data set are likert scale satisfaction ratings from 0 to 100.
+
+<br>
+
+```{r 07.1}
+# Print first 5 lines of data frame
+head(dat)
+```
+
+<br>
+
+### Linear Model Assumptions
+Like all parametric techniques, regression models come with assumptions about the data.
+
+1. Each variable follows a normal distribution
+<br>
+2. Linear relationship between the predictor variables and the dependent variable. Any predictor variables that do not meet this criterion may need to be transformed (e.g. log).
+
+<br>
+
+We can check both of these assumptions by looking at histograms and scatterplots of the predictors versus the outcome.
+
+<br>
+
+```{r 07.2, cache = TRUE, fig.align="center"}
+gpairs(dat)
+```
+
+<br> <br>
+
+Indeed, all variables are normally distributed. Looking at the sixth column, we see eliptical scatterplot patterns, which indicate linear relationships between the predictor variables and the outcome variable. They are also positively correlated with one another which makes intuitive sense: as feature satisfaction levels increase, we expect overall app satisfaction to increase as well.
+
+<br>
+
+3. Finally, multicollinearity can present a problem in linear regressions. When predictor variables are highly correlated with each other it makes coefficient estimation difficult. Let's take the extreme example that feature A and feature B satisfaction ratings are perfectly colinear with each other (+1.0). These variables appear identical to the model so the model will not be able to decide which is the more important of the two for explaining the variance in the outcome variable.
+
+<br>
+
+The matrix below shows all correlations between the predictors. We're hoping for correlation values closer to zero. Correlations of magnitude greater than .8 may cause concern. Issues of multicollinearity can more accurately be diagnosed by calculating Variable Inflation Factor (VIF) for the predictors; however, we must first fit the model before calculating VIF, so the correlation matrix is a good initial check for right now.
+
+<br>
+
+```{r 07.3}
+cor <- cor(dat[1:5])
+print(signif(cor, 2))
+```
+
+<br>
+
+4. Finally, in order to compare their relative importance, predictor variables must be on the same scale as one another. For example, if one of your predictor variables is on a 1-7 scale and the others are on a 0-100 scale, the predictors must be standardized.
+
+<br>
+
+## Fit Model
+Linear models can be fit with one line in R. "overall" denotes our outcome variable and the "." selects all other variables in the data frame as predictor variables for the model.
+
+<br>
+
+```{r 07.4}
+m1 <- lm(overall ~ ., data = dat)
+```
+
+<br>
+
+### Check Model Fit
+Now that we have a model we will want to check how well it fits our data and that it satisfies several other assumptions.
+
+1. Residuals should follow a normal distribution
+If they do not, this is usually because of a non-linear relationship between a predictor and the outcome. We already checked for this, so we should be good. See quadrant I below.
+
+<br>
+
+2. No pattern in the residuals across the model's predicted (or "fitted") values. 
+If the residuals aren't evenly distributed then it violates the assumption of homoscedasticity. See quadrant II and III below.
+
+<br>
+
+3. Outliers, or "abnormal" data points, with high residuals can disproportionately skew our overall model
+The influence that a data point has on the model is described with a metric called Cook's Distance. Some outliers may be caused by data entry errors on the researcher or respondents' behalf. The model should be re-fit after removing these problematic outliers. See quadrant IV below.
+
+<br>
+
+```{r 07.5, cache = TRUE, fig.align="center"}
+par(mfrow=c(2,2))
+plot(m1)
+```
+
+<br>
+
+4. Let's check for multicollinearity issues in our model with Variable Inflation Factors (VIF)
+VIF scores above 5 or 10 are considered problematic and likely necessitate the removal of highly correlated variables. VIF scores are low in this case.
+
+<br>
+
+```{r 07.6}
+vif(m1)
+```
+
+<br>
+
+### Interpreting Model Results
+Now lets actually interpret the model's output.
+
+<br>
+
+```{r 07.7}
+summary(m1)
+```
+
+<br>
+
+First of all, the F-statistic at the bottom tests our original hypothesis:
+
+<br> <br>
+<center>
+$H_{0}: \beta_{1} = \beta_{2} = \beta_{3} = \beta_{4} = \beta_{5} = 0$
+<br>
+$H_{1}$: At least one $\beta$ is non-zero
+</center>
+
+<br><br>
+
+With such a small p-value, we reject the null hypothesis and can say with certainty that at least one of the predictors significantly impacts overall app satisfaction. In other words, at least one of the coefficients is not equal to zero. The model gives us the coefficient (i.e. "Estimate") for each predictor variable and runs a t-test to check whether or not each coefficient is significantly greater than or less than 0.
+
+<br>
+
+We can quickly visualize sign, magnitude and confidence intervals of the coefficients with the following plot.
+
+<br>
+
+```{r 07.8, fig.align="center"}
+coefplot(m1, intercept = FALSE)
+```
+
+<br>
+
+Things are looking good, here are my key take-aways:
+
+1. All predictors are statistically significant at the 95% confidence interval, except for "featureB"
+
+2. All coefficients have a positive sign, meaning that as the value of the predictors increase, we would expect an increase in "overall app satisfaction". This makes intuitive sense and is in-line with our correlation matrix above.
+
+3. "CX_score" and "featureC" have the largest coefficients by far
+
+4. The 5 predictors explain 52% of the variance in "overall app satisfaction" for this data set (as per adjusted R-squared)  
+
+<br>
+
+### Adjusted R-squared
+Adjusted R-squared is an important metric as it tells us how well our model fits the data. As errors between the predicted and actual values increase, R-squared decreases. Another way of thinking about it is the amount of variation in the outcome variable explained by the model. It's a score from 0 to 1, where 1 indicates that the model explains 100% of the variation in the outcome variable. STEM fields that model systems with stable and fundamental laws tend to have higher R-squared values compared to Behavioral and Human Sciences, which typically have more unexplained variance and R-squared values that rarely exceed .50.
+
+<br>
+
+In our case, the 5 predictors explain 52% of the variance in "overall app satisfaction". It's easy to think of other predictors that might explain higher or lower overall app satisfaction. For instance, I'd be interested in fitting a model with "age" and "gender" also included. Lower R-squared values are okay for our purposes since the model still explains the relative importance of predictors.
+
+<br><br><br>
+
+## Variable Selection
+We only used 5 predictors in this case, but a typical drivers analysis might include dozens of satisfaction ratings. Adding predictors will only increase the adjusted R-squared, generating a seemingly better model; however, estimates of the coefficients will become less precise and could lead to incorrect interpretations of relationships in the data [@chapman_r_2019].
+
+<br>
+
+This problem of "over-fitting" can be mitigated by selecting the most important variables to include in the final model. Perhaps the most popular way of handling this is with a method known as step-wise regression. In one type of step-wise regression, backward selection, a model is fit with all predictors of interest. Variables are then removed one-by-one based on a criterion like largest p-value until all are under .05, or maximizing adjusted R-squared, or optimizing other metrics like AIC/BIC.
+
+<br>
+
+"Over-fitting" is especially a problem when using the model for prediction. It is less of an issue for explanatory model with only 5 predictors. In any case, models with many predictor variables should consider step-wise regression.
+
+<br><br><br>
+
+## Final Analysis & Recommendations
+Everything is in order, now we need to present the results to our product development team so that they can prioritize improvements. Our regression model tells us the relative importance of the predictors ($\beta$'s). We also know the average satisfaction for each of the predictors. Let's combine this information into a final driver's analysis deliverable and discuss implications.
+
+<br>
+
+```{r 07.9, fig.align="center"}
+coef <- as.numeric(signif(m1$coefficients[2:length(m1$coefficients)],2))
+var <- names(m1$coefficients[2:length(m1$coefficients)])
+var.sat <- signif(c(mean(dat[,"CX_score"]), mean(dat[,"featureA"]), 
+             mean(dat[,"featureB"]), mean(dat[,"featureC"]),
+             mean(dat[,"featureD"])), 2)
+
+df <- data.frame(coef, var.sat, row.names = var)
+
+ggplot(df, aes(x=var.sat, y=coef)) + geom_point() + 
+        theme(legend.title=element_blank()) + 
+        labs(title="Product Development Decision Matrix", 
+             x="Satisfaction", y= "Coefficients") + 
+        geom_hline(yintercept = (((range(coef)[[2]] - range(coef)[[1]])/2) 
+                           + range(coef)[[1]])) + 
+        geom_vline(xintercept = (((range(var.sat)[[2]] - range(var.sat)[[1]])/2) 
+                           + range(var.sat)[[1]])) + 
+        geom_label(aes(var.sat, coef, label=row.names(df)), nudge_y = .05)
+```
+
+<br>
+
+Average predictor satisfaction is on the x-axis and predictor coefficients are on the y-axis [@sauro_measuringu2016].
+
+**Quadrant I: High satisfaction + High importance**
+<br>
+Leverage and expand the Customer Experience score
+
+**Quadrant II: Low satisfaction + High importance**
+<br>
+Prioritize improvements on featureC, because improving its satisfaction has a high impact on overall app satisfaction
+
+**Quadrant III: Low satisfaction + Low importance**
+<br>
+Feature D is low priority
+
+**Quadrant IV: High satisfaction + Low importance**
+<br>
+Maintain the high satisfaction of Feature A and Feature B with minimal effort

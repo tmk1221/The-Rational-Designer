@@ -1,0 +1,1001 @@
+At what price would you consider the product to be priced so low that you would feel the quality couldnÕt be very good?,At what price would you consider the product to be a bargainÑa great buy for the money?,"At what price would you consider the product starting to get expensive, so that it is not out of the question, but you would have to give some thought to buying it?",At what price would you consider the product to be so expensive that you would not consider buying it?,How likely would you purchase your next smartphone at $[PIPE ANSWER FROM Q1.16_2]?,How likely would you purchase your next smartphone at $[PIPE ANSWER FROM Q1.16_3]?
+10,13,31,114,Very unlikely,Neither likely nor unlikely
+46,75,100,120,Very likely,Likely
+18,41,74,87,Likely,Likely
+12,16,34,200,Very unlikely,Very unlikely
+39,72,101,113,Neither likely nor unlikely,Neither likely nor unlikely
+10,99,131,200,Very likely,Neither likely nor unlikely
+10,67,95,128,Likely,Neither likely nor unlikely
+50,55,60,81,Likely,Very likely
+22,47,76,92,Very likely,Neither likely nor unlikely
+10,53,110,130,Very likely,Neither likely nor unlikely
+16,31,56,75,Likely,Likely
+30,62,89,122,Neither likely nor unlikely,Neither likely nor unlikely
+34,48,65,70,Likely,Neither likely nor unlikely
+10,85,100,120,Likely,Likely
+10,58,70,75,Neither likely nor unlikely,Neither likely nor unlikely
+20,35,60,75,Likely,Very likely
+23,44,90,114,Neither likely nor unlikely,Neither likely nor unlikely
+30,40,70,80,Neither likely nor unlikely,Neither likely nor unlikely
+52,63,79,123,Neither likely nor unlikely,Likely
+39,61,80,100,Likely,Neither likely nor unlikely
+34,82,100,119,Very likely,Likely
+19,40,65,101,Likely,Likely
+20,60,88,148,Neither likely nor unlikely,Very likely
+29,41,78,88,Likely,Unlikely
+20,35,70,100,Very likely,Neither likely nor unlikely
+10,14,54,70,Neither likely nor unlikely,Very unlikely
+29,43,89,132,Likely,Likely
+71,98,135,190,Neither likely nor unlikely,Unlikely
+20,50,78,100,Neither likely nor unlikely,Neither likely nor unlikely
+52,61,96,99,Likely,Neither likely nor unlikely
+38,64,88,113,Neither likely nor unlikely,Neither likely nor unlikely
+10,43,61,81,Very likely,Neither likely nor unlikely
+29,48,71,107,Neither likely nor unlikely,Neither likely nor unlikely
+13,45,81,131,Likely,Neither likely nor unlikely
+30,55,77,80,Likely,Unlikely
+60,81,99,129,Likely,Likely
+20,30,51,73,Very likely,Likely
+72,112,135,185,Likely,Neither likely nor unlikely
+28,42,67,101,Neither likely nor unlikely,Neither likely nor unlikely
+16,30,66,110,Unlikely,Very likely
+11,23,50,95,Likely,Likely
+46,63,78,109,Very likely,Likely
+47,60,100,118,Neither likely nor unlikely,Likely
+41,42,76,116,Neither likely nor unlikely,Very unlikely
+15,50,87,99,Very likely,Likely
+20,35,75,87,Likely,Neither likely nor unlikely
+31,45,56,69,Likely,Unlikely
+90,101,125,155,Very unlikely,Neither likely nor unlikely
+10,30,60,100,Likely,Neither likely nor unlikely
+65,70,115,150,Unlikely,Likely
+32,40,57,104,Unlikely,Unlikely
+13,35,51,71,Likely,Likely
+89,113,144,180,Neither likely nor unlikely,Neither likely nor unlikely
+19,41,86,115,Likely,Unlikely
+20,40,50,80,Likely,Likely
+28,56,88,103,Likely,Neither likely nor unlikely
+12,61,96,145,Neither likely nor unlikely,Neither likely nor unlikely
+44,62,91,101,Likely,Unlikely
+10,30,60,100,Neither likely nor unlikely,Neither likely nor unlikely
+20,50,80,100,Likely,Likely
+10,31,158,183,Very likely,Very likely
+25,35,60,100,Neither likely nor unlikely,Neither likely nor unlikely
+25,76,79,98,Very likely,Very likely
+36,56,89,120,Likely,Likely
+29,52,81,97,Likely,Neither likely nor unlikely
+10,20,59,70,Very likely,Neither likely nor unlikely
+21,42,70,88,Very likely,Very unlikely
+21,42,68,129,Unlikely,Likely
+28,105,153,183,Unlikely,Unlikely
+25,61,78,100,Very likely,Likely
+37,47,82,95,Very likely,Neither likely nor unlikely
+50,81,88,147,Likely,Likely
+37,59,78,138,Very likely,Very likely
+10,30,35,80,Likely,Likely
+15,33,65,100,Likely,Neither likely nor unlikely
+21,39,50,106,Unlikely,Likely
+24,41,80,157,Very unlikely,Likely
+41,55,100,129,Very likely,Neither likely nor unlikely
+25,63,107,117,Likely,Very unlikely
+40,60,75,85,Very likely,Likely
+15,54,113,200,Neither likely nor unlikely,Unlikely
+28,51,89,117,Unlikely,Likely
+10,16,21,63,Very likely,Very likely
+25,34,66,80,Unlikely,Likely
+30,63,96,123,Likely,Likely
+38,45,70,82,Likely,Likely
+21,35,50,70,Likely,Unlikely
+21,50,70,101,Unlikely,Likely
+10,30,58,101,Neither likely nor unlikely,Neither likely nor unlikely
+20,36,60,81,Likely,Neither likely nor unlikely
+18,26,62,84,Very likely,Neither likely nor unlikely
+30,60,80,110,Neither likely nor unlikely,Unlikely
+23,51,76,144,Likely,Likely
+42,65,102,123,Very likely,Likely
+14,106,108,157,Very unlikely,Very unlikely
+18,30,46,60,Very likely,Likely
+18,38,56,126,Likely,Likely
+25,45,110,135,Likely,Unlikely
+51,75,100,150,Likely,Likely
+14,30,70,80,Likely,Unlikely
+49,67,71,146,Neither likely nor unlikely,Neither likely nor unlikely
+22,35,53,80,Likely,Likely
+10,25,50,61,Neither likely nor unlikely,Neither likely nor unlikely
+32,77,100,132,Very likely,Very likely
+11,45,55,97,Unlikely,Very unlikely
+25,36,59,101,Neither likely nor unlikely,Neither likely nor unlikely
+30,40,69,80,Unlikely,Neither likely nor unlikely
+27,39,79,127,Neither likely nor unlikely,Neither likely nor unlikely
+18,39,63,125,Likely,Likely
+10,45,151,200,Likely,Neither likely nor unlikely
+52,76,87,102,Very likely,Very likely
+23,51,98,200,Likely,Likely
+10,30,61,80,Very likely,Very likely
+41,54,90,100,Neither likely nor unlikely,Neither likely nor unlikely
+10,53,81,196,Neither likely nor unlikely,Unlikely
+32,114,166,200,Very likely,Very likely
+10,36,44,78,Likely,Neither likely nor unlikely
+15,30,100,125,Very likely,Likely
+12,41,49,73,Very likely,Likely
+13,54,79,101,Unlikely,Likely
+10,30,35,95,Likely,Likely
+17,38,87,97,Very likely,Neither likely nor unlikely
+10,43,82,110,Very likely,Likely
+15,72,79,131,Neither likely nor unlikely,Very likely
+30,75,100,124,Very likely,Likely
+40,71,90,103,Likely,Likely
+25,50,86,147,Likely,Likely
+15,41,63,81,Unlikely,Likely
+35,57,90,107,Neither likely nor unlikely,Neither likely nor unlikely
+20,41,60,80,Very likely,Likely
+10,32,94,159,Likely,Likely
+39,76,102,116,Very unlikely,Unlikely
+34,40,59,100,Unlikely,Unlikely
+50,81,155,200,Likely,Very unlikely
+24,42,80,105,Unlikely,Likely
+10,25,91,146,Very likely,Likely
+39,47,68,80,Likely,Likely
+21,23,171,183,Very likely,Likely
+20,43,55,85,Unlikely,Very likely
+33,70,117,153,Likely,Neither likely nor unlikely
+45,81,102,140,Neither likely nor unlikely,Unlikely
+58,76,95,102,Likely,Likely
+39,90,100,131,Very unlikely,Very unlikely
+41,47,91,98,Likely,Likely
+10,19,76,115,Very likely,Unlikely
+54,60,81,83,Likely,Unlikely
+66,78,98,107,Very unlikely,Neither likely nor unlikely
+30,45,64,75,Very unlikely,Neither likely nor unlikely
+32,59,77,144,Very likely,Very likely
+38,46,62,93,Likely,Very likely
+20,120,131,160,Very likely,Likely
+25,40,100,110,Unlikely,Likely
+17,29,42,61,Neither likely nor unlikely,Neither likely nor unlikely
+30,54,105,145,Likely,Unlikely
+32,50,58,75,Very likely,Very likely
+10,81,95,110,Very likely,Likely
+21,46,66,102,Unlikely,Likely
+25,34,48,65,Likely,Likely
+48,76,81,114,Likely,Unlikely
+31,62,136,167,Unlikely,Very unlikely
+10,22,82,160,Neither likely nor unlikely,Likely
+35,48,62,70,Likely,Unlikely
+40,54,95,105,Neither likely nor unlikely,Neither likely nor unlikely
+40,47,110,120,Likely,Likely
+20,30,60,64,Neither likely nor unlikely,Likely
+10,40,80,100,Neither likely nor unlikely,Neither likely nor unlikely
+23,50,61,127,Neither likely nor unlikely,Neither likely nor unlikely
+49,59,82,105,Likely,Neither likely nor unlikely
+10,50,65,75,Likely,Likely
+30,55,100,100,Likely,Unlikely
+22,50,65,81,Likely,Likely
+40,75,100,111,Likely,Unlikely
+10,50,88,150,Very likely,Neither likely nor unlikely
+10,50,87,99,Likely,Likely
+25,40,75,120,Likely,Likely
+20,50,70,77,Likely,Likely
+20,40,80,100,Neither likely nor unlikely,Likely
+40,53,85,110,Unlikely,Likely
+10,47,66,179,Very likely,Very likely
+37,61,85,90,Likely,Unlikely
+27,39,92,104,Neither likely nor unlikely,Unlikely
+15,32,63,69,Likely,Neither likely nor unlikely
+75,100,115,121,Very likely,Very unlikely
+41,80,116,200,Likely,Neither likely nor unlikely
+10,40,100,120,Neither likely nor unlikely,Likely
+35,54,73,105,Neither likely nor unlikely,Neither likely nor unlikely
+17,64,90,121,Very likely,Very likely
+40,52,81,111,Likely,Likely
+10,41,141,200,Likely,Very unlikely
+10,23,50,70,Likely,Neither likely nor unlikely
+10,34,63,87,Very unlikely,Neither likely nor unlikely
+10,25,50,120,Likely,Likely
+40,70,100,120,Likely,Unlikely
+13,49,81,94,Likely,Unlikely
+22,49,86,102,Neither likely nor unlikely,Likely
+39,50,82,107,Unlikely,Likely
+84,90,91,126,Likely,Likely
+10,25,50,65,Very likely,Neither likely nor unlikely
+29,40,64,76,Very unlikely,Likely
+31,57,126,197,Very likely,Unlikely
+10,50,90,138,Neither likely nor unlikely,Likely
+28,61,65,81,Likely,Likely
+20,34,76,123,Neither likely nor unlikely,Unlikely
+11,29,85,110,Neither likely nor unlikely,Neither likely nor unlikely
+45,69,98,148,Likely,Likely
+40,55,90,100,Likely,Neither likely nor unlikely
+26,63,73,100,Very likely,Very likely
+50,52,55,61,Likely,Neither likely nor unlikely
+20,41,55,61,Likely,Likely
+29,49,55,97,Likely,Likely
+38,71,96,151,Neither likely nor unlikely,Neither likely nor unlikely
+74,86,98,118,Unlikely,Very unlikely
+22,49,68,85,Very likely,Very likely
+30,60,110,141,Very likely,Very unlikely
+10,41,75,85,Likely,Neither likely nor unlikely
+20,50,85,106,Very likely,Likely
+30,60,85,107,Unlikely,Likely
+50,60,90,100,Very likely,Likely
+50,67,88,123,Neither likely nor unlikely,Neither likely nor unlikely
+10,35,46,72,Very likely,Very likely
+20,44,96,143,Very likely,Very likely
+10,30,80,100,Neither likely nor unlikely,Neither likely nor unlikely
+49,75,92,125,Very likely,Likely
+23,50,78,112,Likely,Likely
+31,51,125,138,Likely,Neither likely nor unlikely
+26,42,84,112,Likely,Unlikely
+24,75,90,100,Very likely,Neither likely nor unlikely
+10,32,72,200,Very likely,Neither likely nor unlikely
+40,51,100,132,Neither likely nor unlikely,Neither likely nor unlikely
+80,100,125,200,Very likely,Likely
+10,22,30,60,Likely,Neither likely nor unlikely
+47,84,103,139,Very likely,Neither likely nor unlikely
+53,57,78,200,Neither likely nor unlikely,Neither likely nor unlikely
+23,37,45,81,Very likely,Likely
+16,40,57,100,Very likely,Likely
+50,152,179,200,Very likely,Very likely
+35,79,121,200,Likely,Likely
+51,78,101,160,Likely,Very likely
+17,48,84,133,Very likely,Likely
+21,51,93,118,Likely,Neither likely nor unlikely
+102,104,126,200,Very unlikely,Very unlikely
+32,52,100,112,Very unlikely,Likely
+21,31,80,83,Likely,Unlikely
+28,55,100,128,Very unlikely,Unlikely
+26,60,100,101,Likely,Very likely
+10,77,102,150,Very likely,Very likely
+50,60,71,82,Very likely,Likely
+24,45,66,94,Likely,Neither likely nor unlikely
+16,36,73,93,Neither likely nor unlikely,Neither likely nor unlikely
+19,30,34,90,Very likely,Very likely
+17,46,74,86,Very likely,Neither likely nor unlikely
+10,47,84,121,Very likely,Likely
+10,36,80,100,Unlikely,Neither likely nor unlikely
+30,53,61,104,Very unlikely,Very unlikely
+43,88,117,137,Neither likely nor unlikely,Unlikely
+25,57,80,120,Very likely,Likely
+13,34,56,88,Likely,Neither likely nor unlikely
+60,74,82,101,Likely,Neither likely nor unlikely
+19,41,131,200,Likely,Neither likely nor unlikely
+10,52,94,200,Likely,Neither likely nor unlikely
+26,75,102,200,Likely,Likely
+10,30,70,71,Very likely,Likely
+20,50,85,100,Likely,Unlikely
+30,50,90,200,Likely,Neither likely nor unlikely
+40,55,60,80,Likely,Likely
+20,35,50,63,Very likely,Neither likely nor unlikely
+10,31,50,80,Likely,Very likely
+10,25,45,138,Likely,Neither likely nor unlikely
+29,56,117,143,Neither likely nor unlikely,Likely
+35,45,80,200,Likely,Likely
+10,35,74,85,Neither likely nor unlikely,Neither likely nor unlikely
+10,35,55,101,Neither likely nor unlikely,Neither likely nor unlikely
+34,54,117,200,Very unlikely,Neither likely nor unlikely
+10,24,83,88,Unlikely,Very unlikely
+32,44,56,68,Likely,Neither likely nor unlikely
+46,55,80,100,Likely,Likely
+10,33,90,100,Very likely,Likely
+30,46,65,76,Very likely,Likely
+15,57,61,70,Unlikely,Unlikely
+20,40,90,101,Very likely,Likely
+50,105,150,200,Likely,Neither likely nor unlikely
+10,150,150,151,Neither likely nor unlikely,Unlikely
+21,48,71,92,Neither likely nor unlikely,Unlikely
+10,36,77,88,Likely,Very unlikely
+70,80,110,130,Likely,Neither likely nor unlikely
+11,32,85,97,Likely,Unlikely
+30,47,68,106,Very likely,Likely
+50,71,90,100,Neither likely nor unlikely,Likely
+30,40,60,90,Very likely,Unlikely
+23,50,70,100,Very likely,Likely
+100,116,121,144,Likely,Likely
+30,73,88,113,Likely,Neither likely nor unlikely
+35,50,111,140,Unlikely,Likely
+20,40,125,150,Neither likely nor unlikely,Neither likely nor unlikely
+50,52,65,87,Likely,Neither likely nor unlikely
+23,75,102,133,Very likely,Neither likely nor unlikely
+30,50,150,155,Neither likely nor unlikely,Neither likely nor unlikely
+40,50,60,90,Likely,Likely
+29,65,110,130,Likely,Neither likely nor unlikely
+26,40,50,100,Likely,Likely
+16,29,91,126,Likely,Very likely
+55,103,117,150,Likely,Likely
+26,53,74,93,Likely,Unlikely
+20,40,60,131,Neither likely nor unlikely,Likely
+14,49,90,177,Likely,Likely
+35,45,70,75,Unlikely,Very likely
+23,72,141,200,Likely,Likely
+17,35,54,85,Very likely,Very likely
+30,62,120,150,Very likely,Neither likely nor unlikely
+11,56,102,136,Likely,Likely
+48,56,100,123,Very likely,Likely
+20,50,83,100,Likely,Likely
+13,50,67,119,Very likely,Very likely
+42,76,90,95,Likely,Neither likely nor unlikely
+27,33,41,172,Likely,Likely
+20,57,92,103,Very likely,Likely
+15,35,75,100,Neither likely nor unlikely,Neither likely nor unlikely
+20,50,80,120,Neither likely nor unlikely,Likely
+25,50,85,100,Very likely,Likely
+10,23,62,130,Neither likely nor unlikely,Very unlikely
+16,25,50,78,Very likely,Neither likely nor unlikely
+80,86,90,120,Unlikely,Neither likely nor unlikely
+10,25,83,145,Neither likely nor unlikely,Neither likely nor unlikely
+40,60,90,100,Likely,Very unlikely
+40,60,90,120,Unlikely,Likely
+30,40,80,100,Unlikely,Likely
+31,74,133,200,Likely,Unlikely
+24,31,92,103,Very unlikely,Likely
+34,70,90,111,Unlikely,Likely
+24,25,72,192,Unlikely,Likely
+10,25,60,81,Very likely,Neither likely nor unlikely
+30,75,100,125,Likely,Neither likely nor unlikely
+54,80,100,160,Very likely,Likely
+50,56,91,108,Very likely,Likely
+10,40,82,104,Very likely,Unlikely
+24,37,61,95,Very likely,Likely
+30,51,110,136,Unlikely,Likely
+30,47,73,92,Unlikely,Likely
+20,35,50,110,Likely,Likely
+11,100,111,120,Likely,Likely
+13,40,77,110,Unlikely,Very likely
+30,50,80,100,Unlikely,Likely
+10,36,65,109,Likely,Likely
+30,60,90,130,Likely,Very likely
+10,41,80,101,Very likely,Likely
+40,59,66,89,Likely,Likely
+35,61,133,200,Unlikely,Likely
+15,28,63,123,Neither likely nor unlikely,Likely
+17,31,39,69,Neither likely nor unlikely,Unlikely
+29,41,61,83,Very likely,Likely
+23,46,54,68,Likely,Likely
+10,50,101,200,Very likely,Likely
+56,70,85,103,Neither likely nor unlikely,Likely
+15,25,51,72,Likely,Neither likely nor unlikely
+30,55,76,95,Likely,Unlikely
+51,76,126,142,Likely,Unlikely
+30,37,75,90,Very likely,Neither likely nor unlikely
+10,51,60,101,Unlikely,Very unlikely
+10,20,51,81,Likely,Likely
+10,42,92,97,Neither likely nor unlikely,Very likely
+56,80,101,122,Very likely,Likely
+21,42,59,103,Neither likely nor unlikely,Neither likely nor unlikely
+16,72,120,150,Very likely,Likely
+30,40,79,100,Likely,Neither likely nor unlikely
+41,64,110,119,Unlikely,Likely
+30,32,60,113,Neither likely nor unlikely,Likely
+41,91,110,120,Likely,Likely
+25,63,86,120,Very likely,Likely
+29,86,87,88,Neither likely nor unlikely,Likely
+20,40,80,105,Very unlikely,Likely
+25,80,100,120,Very likely,Neither likely nor unlikely
+27,43,63,93,Neither likely nor unlikely,Neither likely nor unlikely
+20,51,90,119,Neither likely nor unlikely,Neither likely nor unlikely
+10,41,72,119,Neither likely nor unlikely,Likely
+30,40,71,109,Neither likely nor unlikely,Neither likely nor unlikely
+10,39,62,72,Likely,Neither likely nor unlikely
+20,25,40,80,Unlikely,Likely
+40,50,60,85,Very unlikely,Neither likely nor unlikely
+10,25,60,70,Very likely,Neither likely nor unlikely
+26,27,39,70,Neither likely nor unlikely,Likely
+30,55,110,130,Likely,Neither likely nor unlikely
+20,48,91,108,Likely,Unlikely
+18,25,70,100,Neither likely nor unlikely,Neither likely nor unlikely
+10,53,71,133,Very likely,Likely
+30,45,90,100,Likely,Likely
+116,140,171,196,Very unlikely,Very unlikely
+40,69,70,107,Neither likely nor unlikely,Neither likely nor unlikely
+10,39,99,155,Very likely,Unlikely
+36,50,88,90,Very likely,Likely
+10,62,81,200,Neither likely nor unlikely,Neither likely nor unlikely
+10,30,50,78,Very likely,Likely
+10,43,83,90,Neither likely nor unlikely,Likely
+80,120,125,135,Likely,Likely
+50,125,164,200,Neither likely nor unlikely,Likely
+15,70,80,100,Likely,Neither likely nor unlikely
+20,94,107,200,Very unlikely,Very unlikely
+55,75,85,115,Likely,Likely
+38,87,98,121,Very likely,Very likely
+12,39,75,89,Likely,Neither likely nor unlikely
+17,41,101,200,Likely,Likely
+12,28,76,111,Neither likely nor unlikely,Likely
+24,45,56,114,Unlikely,Unlikely
+20,56,74,84,Neither likely nor unlikely,Likely
+18,40,81,100,Neither likely nor unlikely,Neither likely nor unlikely
+53,83,120,200,Likely,Likely
+27,83,117,150,Likely,Neither likely nor unlikely
+20,33,54,103,Neither likely nor unlikely,Neither likely nor unlikely
+29,138,158,170,Likely,Neither likely nor unlikely
+20,52,60,66,Likely,Likely
+10,60,80,120,Likely,Likely
+16,51,91,160,Likely,Likely
+20,50,60,75,Likely,Neither likely nor unlikely
+62,74,103,110,Very likely,Likely
+10,80,120,200,Very likely,Neither likely nor unlikely
+35,50,80,90,Likely,Neither likely nor unlikely
+33,60,81,100,Likely,Likely
+40,65,100,120,Likely,Likely
+31,61,98,121,Very unlikely,Likely
+81,91,108,110,Very likely,Very unlikely
+10,50,90,110,Neither likely nor unlikely,Likely
+20,36,75,81,Likely,Neither likely nor unlikely
+10,101,181,200,Neither likely nor unlikely,Likely
+40,65,86,100,Likely,Unlikely
+35,42,75,81,Likely,Neither likely nor unlikely
+15,30,40,70,Neither likely nor unlikely,Likely
+107,120,134,200,Neither likely nor unlikely,Neither likely nor unlikely
+10,50,80,91,Very likely,Neither likely nor unlikely
+10,52,71,131,Very likely,Likely
+25,44,69,84,Very likely,Neither likely nor unlikely
+30,61,90,120,Very likely,Likely
+29,110,165,200,Very likely,Very likely
+50,61,87,92,Neither likely nor unlikely,Neither likely nor unlikely
+10,31,121,200,Very unlikely,Very unlikely
+17,75,120,155,Likely,Neither likely nor unlikely
+24,65,85,110,Likely,Unlikely
+31,52,71,99,Very likely,Likely
+26,51,95,120,Neither likely nor unlikely,Neither likely nor unlikely
+46,56,95,119,Very unlikely,Neither likely nor unlikely
+47,49,120,200,Very unlikely,Very likely
+10,30,90,100,Very likely,Unlikely
+20,43,85,101,Likely,Unlikely
+22,30,80,101,Very likely,Very likely
+40,59,87,115,Neither likely nor unlikely,Neither likely nor unlikely
+28,50,100,130,Unlikely,Very likely
+10,35,45,200,Very unlikely,Very unlikely
+11,30,74,97,Very likely,Neither likely nor unlikely
+21,60,86,132,Likely,Likely
+23,48,70,80,Neither likely nor unlikely,Neither likely nor unlikely
+15,44,94,109,Likely,Likely
+87,91,98,110,Likely,Likely
+10,56,71,153,Neither likely nor unlikely,Likely
+35,83,94,97,Likely,Neither likely nor unlikely
+10,50,101,120,Neither likely nor unlikely,Unlikely
+21,43,90,100,Likely,Neither likely nor unlikely
+30,70,155,200,Likely,Likely
+17,30,60,82,Likely,Neither likely nor unlikely
+36,50,75,101,Very likely,Likely
+37,56,81,131,Neither likely nor unlikely,Neither likely nor unlikely
+30,70,110,131,Very likely,Likely
+10,50,55,105,Neither likely nor unlikely,Neither likely nor unlikely
+21,50,100,126,Neither likely nor unlikely,Neither likely nor unlikely
+15,31,82,137,Likely,Neither likely nor unlikely
+13,70,117,200,Very likely,Very likely
+40,70,80,120,Likely,Likely
+10,27,106,140,Neither likely nor unlikely,Very unlikely
+40,50,80,100,Unlikely,Neither likely nor unlikely
+13,64,118,161,Likely,Likely
+26,64,127,189,Very likely,Very likely
+74,100,117,144,Very likely,Very likely
+26,51,86,143,Likely,Likely
+10,30,70,100,Very likely,Neither likely nor unlikely
+20,50,90,120,Very likely,Very likely
+10,57,110,200,Neither likely nor unlikely,Neither likely nor unlikely
+61,77,82,97,Neither likely nor unlikely,Neither likely nor unlikely
+19,27,81,105,Very likely,Likely
+60,82,122,150,Likely,Neither likely nor unlikely
+20,60,110,131,Neither likely nor unlikely,Very likely
+34,77,93,119,Likely,Unlikely
+50,105,148,183,Neither likely nor unlikely,Neither likely nor unlikely
+10,90,100,113,Very likely,Neither likely nor unlikely
+21,50,57,117,Likely,Likely
+25,40,75,110,Very unlikely,Likely
+25,42,83,100,Very likely,Likely
+10,20,31,61,Likely,Unlikely
+30,35,50,75,Neither likely nor unlikely,Unlikely
+16,44,61,84,Likely,Neither likely nor unlikely
+151,174,187,193,Likely,Likely
+10,80,127,151,Very unlikely,Very likely
+41,60,104,200,Very likely,Neither likely nor unlikely
+11,24,36,200,Likely,Neither likely nor unlikely
+80,120,141,155,Very likely,Likely
+21,49,85,90,Very likely,Neither likely nor unlikely
+13,30,49,71,Very likely,Likely
+24,61,92,127,Very likely,Very likely
+33,142,183,200,Neither likely nor unlikely,Unlikely
+24,52,105,128,Likely,Neither likely nor unlikely
+40,70,100,120,Likely,Neither likely nor unlikely
+19,55,74,100,Very likely,Very likely
+43,65,100,155,Very likely,Likely
+10,50,102,151,Unlikely,Very unlikely
+42,70,95,115,Likely,Neither likely nor unlikely
+20,45,60,105,Likely,Neither likely nor unlikely
+16,42,82,115,Very likely,Very unlikely
+20,26,52,200,Neither likely nor unlikely,Neither likely nor unlikely
+40,75,105,110,Very likely,Neither likely nor unlikely
+48,103,114,167,Very likely,Very likely
+40,70,130,150,Very likely,Unlikely
+18,24,63,96,Likely,Likely
+60,85,110,200,Very likely,Likely
+33,72,125,159,Very likely,Likely
+38,60,100,118,Likely,Unlikely
+39,83,162,192,Neither likely nor unlikely,Likely
+39,63,140,154,Neither likely nor unlikely,Neither likely nor unlikely
+55,85,90,105,Neither likely nor unlikely,Neither likely nor unlikely
+28,74,109,154,Likely,Neither likely nor unlikely
+10,37,45,107,Likely,Likely
+20,30,72,121,Unlikely,Likely
+48,86,117,135,Very likely,Very likely
+15,25,45,65,Likely,Neither likely nor unlikely
+10,35,80,120,Neither likely nor unlikely,Likely
+15,35,60,101,Likely,Unlikely
+25,50,75,120,Likely,Neither likely nor unlikely
+50,105,120,135,Likely,Likely
+61,107,141,156,Very likely,Very likely
+20,30,102,125,Neither likely nor unlikely,Neither likely nor unlikely
+10,33,80,121,Very likely,Very likely
+10,47,94,108,Very likely,Very likely
+51,80,99,136,Likely,Likely
+44,67,79,94,Very likely,Very likely
+15,27,47,75,Likely,Neither likely nor unlikely
+141,142,158,160,Neither likely nor unlikely,Neither likely nor unlikely
+15,41,58,109,Likely,Likely
+33,50,78,100,Likely,Likely
+62,90,112,122,Very likely,Unlikely
+10,15,31,91,Very likely,Likely
+20,35,45,63,Likely,Unlikely
+19,81,113,147,Neither likely nor unlikely,Neither likely nor unlikely
+42,69,91,104,Unlikely,Likely
+35,44,50,100,Likely,Neither likely nor unlikely
+45,56,64,67,Likely,Neither likely nor unlikely
+20,42,85,120,Unlikely,Neither likely nor unlikely
+45,78,84,110,Likely,Likely
+45,65,74,119,Very likely,Likely
+31,68,100,134,Likely,Neither likely nor unlikely
+21,34,49,84,Likely,Likely
+30,65,100,120,Neither likely nor unlikely,Neither likely nor unlikely
+16,31,57,86,Likely,Likely
+10,40,60,80,Very likely,Neither likely nor unlikely
+28,54,80,121,Very likely,Neither likely nor unlikely
+32,67,96,140,Very likely,Likely
+19,40,90,100,Likely,Likely
+10,50,150,200,Likely,Likely
+50,65,80,83,Very likely,Unlikely
+20,49,74,155,Likely,Unlikely
+55,83,100,120,Very likely,Likely
+32,56,123,195,Very unlikely,Unlikely
+10,40,70,90,Likely,Unlikely
+61,84,97,134,Very likely,Very likely
+25,61,69,82,Likely,Likely
+75,82,104,127,Neither likely nor unlikely,Unlikely
+41,54,86,142,Unlikely,Likely
+50,60,81,91,Neither likely nor unlikely,Likely
+10,15,32,61,Likely,Likely
+20,50,100,126,Neither likely nor unlikely,Likely
+30,57,70,76,Neither likely nor unlikely,Neither likely nor unlikely
+38,63,93,141,Likely,Likely
+10,34,112,200,Very likely,Likely
+78,86,98,121,Very likely,Very likely
+42,53,88,92,Very likely,Very likely
+17,91,100,186,Neither likely nor unlikely,Very likely
+10,58,62,92,Very likely,Likely
+30,45,67,81,Very likely,Likely
+43,76,88,125,Very likely,Likely
+42,67,96,130,Very unlikely,Neither likely nor unlikely
+18,68,86,115,Very likely,Neither likely nor unlikely
+66,75,94,110,Very unlikely,Very unlikely
+13,43,51,67,Very likely,Very likely
+20,60,100,121,Likely,Unlikely
+46,71,84,126,Likely,Likely
+10,50,60,80,Likely,Likely
+30,45,88,99,Likely,Likely
+46,97,115,171,Likely,Likely
+22,43,70,79,Likely,Likely
+20,62,94,137,Neither likely nor unlikely,Very likely
+43,67,109,147,Likely,Likely
+49,65,84,100,Very likely,Likely
+42,111,125,168,Unlikely,Very unlikely
+20,48,82,132,Likely,Likely
+39,110,134,172,Very likely,Likely
+10,21,38,70,Likely,Likely
+18,46,92,102,Unlikely,Unlikely
+20,40,55,100,Likely,Likely
+35,50,80,100,Likely,Neither likely nor unlikely
+10,32,103,152,Neither likely nor unlikely,Likely
+50,74,116,144,Likely,Unlikely
+56,63,91,121,Very likely,Likely
+28,50,80,101,Neither likely nor unlikely,Neither likely nor unlikely
+37,61,100,149,Neither likely nor unlikely,Likely
+10,50,100,120,Very likely,Unlikely
+23,49,52,96,Likely,Likely
+10,50,80,90,Likely,Neither likely nor unlikely
+39,52,109,118,Likely,Unlikely
+30,83,100,122,Neither likely nor unlikely,Neither likely nor unlikely
+10,30,40,71,Very likely,Likely
+30,55,89,100,Unlikely,Likely
+16,35,81,119,Likely,Likely
+28,43,72,94,Neither likely nor unlikely,Neither likely nor unlikely
+21,43,75,111,Likely,Neither likely nor unlikely
+10,60,84,129,Likely,Neither likely nor unlikely
+28,41,91,137,Very likely,Likely
+10,40,50,60,Very unlikely,Neither likely nor unlikely
+10,15,71,200,Neither likely nor unlikely,Neither likely nor unlikely
+11,21,68,140,Neither likely nor unlikely,Neither likely nor unlikely
+10,25,87,152,Likely,Neither likely nor unlikely
+16,50,73,107,Likely,Likely
+17,52,76,93,Neither likely nor unlikely,Neither likely nor unlikely
+28,50,66,80,Very likely,Very likely
+30,49,61,91,Very likely,Unlikely
+18,55,100,151,Unlikely,Likely
+10,26,60,80,Neither likely nor unlikely,Likely
+20,41,89,100,Likely,Neither likely nor unlikely
+10,18,65,155,Neither likely nor unlikely,Neither likely nor unlikely
+10,50,76,144,Likely,Likely
+57,106,125,191,Likely,Neither likely nor unlikely
+16,45,85,100,Very likely,Neither likely nor unlikely
+30,60,100,150,Very likely,Likely
+10,30,49,102,Very unlikely,Likely
+30,51,71,100,Likely,Neither likely nor unlikely
+28,72,80,133,Very likely,Very likely
+19,57,85,122,Very likely,Likely
+10,31,60,71,Very likely,Unlikely
+20,25,50,77,Very likely,Very likely
+33,56,86,159,Likely,Very likely
+10,50,80,127,Likely,Likely
+15,27,59,68,Likely,Likely
+10,35,50,67,Neither likely nor unlikely,Unlikely
+60,62,85,100,Unlikely,Neither likely nor unlikely
+30,35,41,65,Likely,Likely
+20,43,82,98,Very likely,Likely
+18,51,66,78,Neither likely nor unlikely,Likely
+19,51,90,141,Likely,Likely
+10,20,69,127,Likely,Neither likely nor unlikely
+100,118,138,194,Very unlikely,Very unlikely
+40,49,93,166,Neither likely nor unlikely,Unlikely
+44,80,100,104,Likely,Likely
+10,25,98,144,Very likely,Very likely
+14,59,76,93,Likely,Unlikely
+30,51,86,101,Likely,Unlikely
+13,28,50,107,Very likely,Very likely
+10,41,78,109,Likely,Likely
+28,47,80,103,Likely,Likely
+14,90,93,200,Neither likely nor unlikely,Neither likely nor unlikely
+19,57,70,77,Likely,Neither likely nor unlikely
+50,81,120,151,Very likely,Unlikely
+25,54,64,100,Likely,Neither likely nor unlikely
+15,25,40,65,Very likely,Likely
+22,45,60,95,Very likely,Likely
+20,101,138,200,Very likely,Likely
+20,89,104,177,Likely,Unlikely
+20,40,61,105,Very unlikely,Likely
+35,56,79,113,Likely,Likely
+26,76,81,127,Likely,Neither likely nor unlikely
+17,40,47,61,Likely,Neither likely nor unlikely
+10,60,71,101,Unlikely,Very likely
+20,51,60,82,Very likely,Likely
+14,25,48,172,Very likely,Very likely
+22,30,31,65,Neither likely nor unlikely,Neither likely nor unlikely
+51,127,165,200,Very unlikely,Very unlikely
+36,47,68,100,Likely,Unlikely
+15,20,60,90,Neither likely nor unlikely,Neither likely nor unlikely
+10,56,65,94,Neither likely nor unlikely,Likely
+10,19,27,62,Neither likely nor unlikely,Unlikely
+14,66,104,190,Likely,Unlikely
+50,60,69,80,Likely,Neither likely nor unlikely
+20,35,101,111,Neither likely nor unlikely,Unlikely
+10,30,60,100,Neither likely nor unlikely,Neither likely nor unlikely
+29,58,81,88,Likely,Unlikely
+47,61,79,200,Neither likely nor unlikely,Neither likely nor unlikely
+29,56,95,148,Likely,Neither likely nor unlikely
+25,41,61,81,Very likely,Likely
+25,57,65,84,Likely,Neither likely nor unlikely
+22,29,87,99,Very likely,Very unlikely
+49,101,143,164,Neither likely nor unlikely,Neither likely nor unlikely
+10,45,79,100,Very unlikely,Neither likely nor unlikely
+48,48,112,198,Likely,Neither likely nor unlikely
+10,11,13,93,Likely,Likely
+54,68,96,96,Very likely,Neither likely nor unlikely
+10,56,61,154,Very unlikely,Likely
+66,112,156,200,Neither likely nor unlikely,Neither likely nor unlikely
+50,70,99,135,Likely,Likely
+10,16,20,132,Likely,Likely
+12,30,72,104,Likely,Neither likely nor unlikely
+73,90,119,134,Unlikely,Unlikely
+10,25,86,104,Very likely,Very likely
+10,40,70,90,Very likely,Likely
+10,31,47,200,Likely,Likely
+23,68,102,130,Very unlikely,Very likely
+40,59,78,122,Neither likely nor unlikely,Unlikely
+25,69,101,129,Very unlikely,Unlikely
+12,72,100,175,Neither likely nor unlikely,Unlikely
+28,38,89,93,Neither likely nor unlikely,Likely
+30,60,80,110,Very likely,Very unlikely
+34,45,72,101,Unlikely,Very likely
+13,70,108,151,Likely,Neither likely nor unlikely
+55,73,84,107,Likely,Likely
+40,70,84,99,Neither likely nor unlikely,Neither likely nor unlikely
+29,64,98,149,Neither likely nor unlikely,Neither likely nor unlikely
+10,61,99,197,Likely,Very unlikely
+21,85,110,122,Very unlikely,Neither likely nor unlikely
+10,43,73,101,Likely,Likely
+57,58,89,96,Very unlikely,Unlikely
+21,70,122,152,Neither likely nor unlikely,Unlikely
+10,45,82,100,Very likely,Likely
+30,61,100,142,Neither likely nor unlikely,Likely
+53,56,61,67,Neither likely nor unlikely,Neither likely nor unlikely
+20,46,71,95,Likely,Neither likely nor unlikely
+22,41,66,79,Very likely,Unlikely
+10,45,92,118,Very likely,Likely
+10,82,96,133,Likely,Likely
+22,55,92,95,Likely,Likely
+21,41,69,105,Neither likely nor unlikely,Likely
+32,41,82,89,Very likely,Neither likely nor unlikely
+10,30,50,71,Very likely,Very unlikely
+30,50,101,111,Likely,Unlikely
+10,23,107,113,Very likely,Likely
+61,82,97,129,Likely,Neither likely nor unlikely
+70,86,108,123,Likely,Likely
+30,40,74,80,Neither likely nor unlikely,Unlikely
+101,102,105,127,Neither likely nor unlikely,Unlikely
+29,61,82,101,Likely,Neither likely nor unlikely
+10,20,96,103,Neither likely nor unlikely,Neither likely nor unlikely
+10,31,54,100,Likely,Likely
+45,70,146,184,Neither likely nor unlikely,Very unlikely
+30,60,71,100,Very likely,Likely
+22,128,150,179,Neither likely nor unlikely,Unlikely
+15,20,70,89,Likely,Unlikely
+28,40,55,66,Neither likely nor unlikely,Likely
+30,65,88,122,Likely,Neither likely nor unlikely
+21,30,40,63,Neither likely nor unlikely,Unlikely
+11,81,98,116,Neither likely nor unlikely,Neither likely nor unlikely
+35,45,100,121,Very likely,Very unlikely
+33,51,98,135,Likely,Likely
+23,35,48,70,Likely,Likely
+14,55,78,123,Likely,Likely
+12,48,81,192,Very likely,Very unlikely
+15,35,61,82,Likely,Neither likely nor unlikely
+29,88,99,121,Likely,Neither likely nor unlikely
+11,55,84,142,Neither likely nor unlikely,Likely
+10,50,80,101,Very likely,Unlikely
+35,50,65,71,Neither likely nor unlikely,Neither likely nor unlikely
+40,61,79,120,Likely,Likely
+30,48,63,80,Unlikely,Likely
+52,100,122,151,Very likely,Very unlikely
+52,70,89,139,Unlikely,Likely
+70,76,84,114,Likely,Neither likely nor unlikely
+10,35,93,123,Unlikely,Likely
+19,43,61,87,Very likely,Likely
+31,47,68,89,Likely,Very likely
+10,20,65,140,Unlikely,Likely
+10,30,60,100,Likely,Unlikely
+18,30,51,61,Very likely,Likely
+31,45,100,130,Neither likely nor unlikely,Neither likely nor unlikely
+19,64,95,125,Likely,Neither likely nor unlikely
+20,35,68,75,Very likely,Neither likely nor unlikely
+42,67,86,120,Neither likely nor unlikely,Likely
+142,166,173,200,Neither likely nor unlikely,Neither likely nor unlikely
+46,82,114,170,Likely,Neither likely nor unlikely
+30,59,99,120,Unlikely,Very likely
+26,56,70,72,Neither likely nor unlikely,Very unlikely
+39,48,89,193,Likely,Neither likely nor unlikely
+40,100,130,200,Likely,Likely
+40,55,77,90,Unlikely,Very likely
+49,81,109,148,Likely,Neither likely nor unlikely
+15,20,31,91,Neither likely nor unlikely,Very likely
+20,53,67,91,Likely,Very likely
+10,13,68,86,Very likely,Unlikely
+21,40,65,100,Likely,Likely
+14,40,59,61,Likely,Very unlikely
+55,80,100,120,Very likely,Likely
+15,40,60,111,Neither likely nor unlikely,Likely
+56,71,98,131,Likely,Neither likely nor unlikely
+31,72,120,142,Very likely,Neither likely nor unlikely
+21,40,96,110,Unlikely,Likely
+11,82,97,168,Neither likely nor unlikely,Neither likely nor unlikely
+18,46,58,115,Very likely,Neither likely nor unlikely
+19,72,166,200,Likely,Neither likely nor unlikely
+50,70,101,121,Very likely,Likely
+10,73,104,130,Likely,Likely
+20,40,60,60,Neither likely nor unlikely,Neither likely nor unlikely
+38,76,135,158,Very likely,Unlikely
+12,42,77,105,Very likely,Unlikely
+93,107,111,161,Likely,Likely
+15,30,45,90,Neither likely nor unlikely,Likely
+26,40,51,100,Unlikely,Neither likely nor unlikely
+41,75,111,138,Likely,Unlikely
+41,61,75,102,Likely,Unlikely
+30,45,61,80,Very likely,Neither likely nor unlikely
+10,23,37,200,Likely,Neither likely nor unlikely
+20,138,165,200,Very likely,Very likely
+46,57,74,80,Likely,Neither likely nor unlikely
+23,68,94,138,Very likely,Likely
+19,30,44,82,Likely,Unlikely
+26,40,80,100,Very likely,Unlikely
+10,39,84,104,Neither likely nor unlikely,Likely
+30,35,60,89,Likely,Likely
+35,48,56,79,Neither likely nor unlikely,Likely
+17,40,80,104,Very likely,Likely
+10,39,45,76,Unlikely,Likely
+30,76,119,187,Neither likely nor unlikely,Very unlikely
+27,41,67,98,Neither likely nor unlikely,Neither likely nor unlikely
+18,35,66,109,Likely,Very unlikely
+36,38,98,179,Likely,Neither likely nor unlikely
+53,67,89,200,Very likely,Very likely
+10,40,62,104,Likely,Likely
+20,69,85,200,Very likely,Likely
+27,73,87,123,Likely,Neither likely nor unlikely
+40,55,80,111,Very unlikely,Likely
+17,44,110,160,Neither likely nor unlikely,Very unlikely
+40,57,91,120,Likely,Neither likely nor unlikely
+10,10,15,200,Very unlikely,Very unlikely
+40,55,85,100,Very likely,Neither likely nor unlikely
+40,55,67,85,Very likely,Likely
+10,29,65,72,Neither likely nor unlikely,Neither likely nor unlikely
+35,50,70,105,Neither likely nor unlikely,Likely
+20,35,55,70,Likely,Likely
+35,45,55,69,Likely,Neither likely nor unlikely
+25,30,91,100,Likely,Unlikely
+18,58,122,200,Neither likely nor unlikely,Likely
+10,67,105,200,Likely,Unlikely
+40,79,124,142,Neither likely nor unlikely,Likely
+44,59,85,96,Likely,Neither likely nor unlikely
+30,65,95,155,Likely,Likely
+28,48,83,104,Very likely,Unlikely
+10,70,96,200,Neither likely nor unlikely,Neither likely nor unlikely
+47,95,116,200,Likely,Unlikely
+20,40,75,81,Likely,Likely
+20,33,69,70,Likely,Unlikely
+10,24,43,67,Likely,Neither likely nor unlikely
+10,12,50,91,Very likely,Neither likely nor unlikely
+10,28,52,100,Neither likely nor unlikely,Likely
+71,71,73,75,Very unlikely,Neither likely nor unlikely
+30,50,63,85,Neither likely nor unlikely,Likely
+21,51,61,98,Very likely,Very likely
+50,77,110,135,Very likely,Neither likely nor unlikely
+10,50,90,101,Likely,Likely
+48,62,84,186,Very likely,Likely
+93,94,94,97,Unlikely,Likely
+55,70,89,104,Likely,Likely
+20,36,60,120,Likely,Neither likely nor unlikely
+20,51,86,128,Very unlikely,Likely
+10,69,84,148,Likely,Unlikely
+10,89,91,200,Very likely,Neither likely nor unlikely
+70,75,90,110,Likely,Likely
+14,55,87,187,Likely,Likely
+32,40,68,70,Neither likely nor unlikely,Neither likely nor unlikely
+30,84,132,195,Likely,Unlikely
+15,95,110,200,Very unlikely,Neither likely nor unlikely
+21,30,87,140,Unlikely,Unlikely
+49,84,112,144,Very likely,Very likely
+33,60,86,107,Unlikely,Likely
+30,40,125,160,Unlikely,Likely
+43,74,106,125,Very likely,Neither likely nor unlikely
+40,55,92,120,Very likely,Likely
+44,70,153,160,Likely,Likely
+10,41,84,130,Neither likely nor unlikely,Very likely
+22,40,60,94,Unlikely,Likely
+30,57,82,104,Unlikely,Likely
+35,55,80,110,Unlikely,Likely
+78,111,119,149,Unlikely,Neither likely nor unlikely
+29,38,45,81,Neither likely nor unlikely,Neither likely nor unlikely
+85,112,131,168,Unlikely,Unlikely
+41,101,125,156,Neither likely nor unlikely,Neither likely nor unlikely
+13,68,78,123,Neither likely nor unlikely,Neither likely nor unlikely
+20,26,66,73,Neither likely nor unlikely,Likely
+40,43,51,65,Likely,Unlikely
+27,58,61,98,Likely,Likely
+31,60,70,85,Likely,Very likely
+20,47,68,100,Neither likely nor unlikely,Likely
+13,37,67,77,Likely,Neither likely nor unlikely
+26,42,53,70,Likely,Neither likely nor unlikely
+30,54,101,152,Likely,Neither likely nor unlikely
+15,26,50,61,Neither likely nor unlikely,Neither likely nor unlikely
+40,61,80,95,Very unlikely,Neither likely nor unlikely
+102,136,153,200,Likely,Likely
+70,115,128,153,Neither likely nor unlikely,Neither likely nor unlikely
+25,40,56,68,Very likely,Likely
+19,42,87,100,Neither likely nor unlikely,Unlikely
+31,79,157,187,Unlikely,Neither likely nor unlikely
+10,22,48,64,Likely,Unlikely
+30,65,107,150,Very likely,Neither likely nor unlikely
+37,52,89,108,Very likely,Likely
+32,66,83,121,Likely,Unlikely
+10,23,34,163,Neither likely nor unlikely,Likely
+45,65,86,106,Likely,Neither likely nor unlikely
+33,51,130,150,Neither likely nor unlikely,Likely
+24,44,103,125,Unlikely,Unlikely
+30,48,74,94,Unlikely,Likely
+10,31,83,124,Likely,Likely
+27,40,51,62,Very likely,Very likely
+23,53,73,90,Very likely,Very likely
+20,68,93,149,Likely,Likely
+30,72,117,141,Likely,Likely
+76,89,101,118,Very likely,Very likely
+18,39,54,115,Likely,Likely
+19,63,123,153,Likely,Unlikely
+99,101,106,200,Unlikely,Neither likely nor unlikely
+38,53,80,111,Neither likely nor unlikely,Neither likely nor unlikely
+26,50,82,97,Likely,Unlikely
+15,40,105,146,Very likely,Likely
+10,52,80,128,Neither likely nor unlikely,Likely
+19,41,62,63,Likely,Unlikely
+29,52,88,118,Very likely,Very likely
+60,80,90,105,Likely,Neither likely nor unlikely
+67,89,129,158,Unlikely,Very likely
+20,34,79,101,Very likely,Unlikely
+30,50,80,99,Likely,Neither likely nor unlikely
+13,100,195,200,Likely,Neither likely nor unlikely
+10,41,55,90,Likely,Likely
+30,40,60,70,Likely,Neither likely nor unlikely
+30,50,110,150,Unlikely,Likely
+10,41,86,134,Neither likely nor unlikely,Likely
+10,20,70,80,Unlikely,Likely
+10,22,85,135,Very unlikely,Likely
+28,58,103,116,Neither likely nor unlikely,Neither likely nor unlikely
+73,90,150,162,Very likely,Neither likely nor unlikely
+13,35,70,120,Very likely,Likely
+40,75,100,200,Likely,Very likely
+20,75,105,120,Very likely,Likely
+10,50,82,200,Neither likely nor unlikely,Neither likely nor unlikely
+20,76,90,132,Likely,Likely
+10,30,81,174,Likely,Neither likely nor unlikely
+51,110,122,161,Very likely,Very likely
+50,73,99,117,Very likely,Very likely
+10,63,79,99,Likely,Likely
+18,36,65,137,Likely,Very likely
+162,164,169,194,Very likely,Very likely
+25,61,106,138,Unlikely,Likely
+120,133,150,167,Unlikely,Neither likely nor unlikely
+84,166,184,200,Likely,Very likely
+23,104,143,161,Likely,Likely
+44,58,59,136,Neither likely nor unlikely,Neither likely nor unlikely
+41,51,91,108,Likely,Neither likely nor unlikely
+74,170,172,193,Very unlikely,Likely
+20,61,85,100,Very likely,Neither likely nor unlikely
+25,41,76,94,Likely,Unlikely
+50,70,90,151,Likely,Unlikely
+40,51,64,85,Neither likely nor unlikely,Unlikely
+66,80,94,131,Likely,Likely
+10,20,40,60,Unlikely,Unlikely
+46,56,71,103,Very likely,Likely
+19,23,48,88,Likely,Unlikely
+25,50,70,90,Neither likely nor unlikely,Likely
+44,87,114,154,Very likely,Likely
+10,11,20,200,Very unlikely,Very unlikely
+10,67,76,122,Very likely,Likely
+15,40,70,85,Neither likely nor unlikely,Likely
+45,68,74,78,Likely,Neither likely nor unlikely
+12,51,62,96,Very likely,Likely
+45,59,70,81,Very likely,Neither likely nor unlikely
+10,50,89,101,Neither likely nor unlikely,Neither likely nor unlikely
+12,30,79,100,Neither likely nor unlikely,Neither likely nor unlikely
+20,50,64,80,Likely,Likely
+25,41,121,152,Very unlikely,Likely
+10,50,70,110,Very unlikely,Likely
+25,35,56,80,Very likely,Likely
+10,38,50,76,Neither likely nor unlikely,Neither likely nor unlikely
+28,32,79,96,Neither likely nor unlikely,Neither likely nor unlikely
+73,81,92,133,Neither likely nor unlikely,Neither likely nor unlikely
+22,44,97,154,Very likely,Likely
+13,35,75,95,Very likely,Unlikely
+10,15,110,125,Unlikely,Likely
+20,65,82,100,Likely,Unlikely
+25,65,144,196,Very likely,Very unlikely
+12,103,159,200,Very likely,Neither likely nor unlikely
+23,65,123,160,Very likely,Likely
+131,131,140,200,Very likely,Likely
+40,70,120,140,Likely,Likely
+30,50,80,100,Likely,Unlikely
+30,50,81,101,Likely,Neither likely nor unlikely
+71,88,100,120,Unlikely,Likely
+36,57,84,115,Very unlikely,Neither likely nor unlikely
+16,33,50,70,Very likely,Likely
+40,70,100,200,Very likely,Very likely
+22,54,70,200,Neither likely nor unlikely,Likely
+25,50,77,103,Likely,Very unlikely
+37,53,87,124,Neither likely nor unlikely,Likely
+58,88,106,144,Neither likely nor unlikely,Unlikely
+10,50,63,120,Likely,Likely
+26,52,81,100,Likely,Likely
+70,85,100,110,Likely,Unlikely
+10,52,60,104,Likely,Likely
+40,57,79,100,Very likely,Likely
+20,87,123,194,Neither likely nor unlikely,Neither likely nor unlikely
+26,59,120,192,Likely,Neither likely nor unlikely
+19,40,74,97,Likely,Neither likely nor unlikely
+41,72,111,125,Likely,Unlikely
+25,40,75,90,Very likely,Likely
+10,40,86,100,Neither likely nor unlikely,Likely
+20,40,60,100,Neither likely nor unlikely,Likely
+29,55,86,120,Very likely,Likely
