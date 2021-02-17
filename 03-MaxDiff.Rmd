@@ -48,7 +48,7 @@ The image below shows an example of a single Max Diff question. Each Max Diff qu
 
 <br> <br> <br>
 
-## Max Diff for MVP Feature Prioritization
+## Max Diff for Product Design
 Let's work through an example of testing the importance of four features for potential inclusion in the MVP of a SaaS product. This Max Diff experiment will allow us to rank order the features in terms of user importance. After all, the idea behind an MVP is determining the smallest possible feature set for which customers will pay. Thus, feature prioritization is essential for narrowing down a product team’s large list of potential features.
 
 <br>

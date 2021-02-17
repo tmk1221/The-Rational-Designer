@@ -53,7 +53,7 @@ Persona development details the specific UX pain points and user journey of each
 
 <br> <br> <br>
 
-## Introduction
+## Market Segmentation for Product Design
 Our company wants to launch a new and improved decentralized wallet for current users of DApps and blockchain-related projects. This blockchain market is fast-moving and highly diverse, so we require a market segmentation to better understand its constituent users in terms of their current category usage and decentralized wallet needs. We do this to inform our product design, so that we provide an ideal solution for a subset of the market rather than an average solution for the entire market. We want to quickly attract a group of early-adopters to validate product market fit and start generating revenue to keep our startup afloat [@blank_four_2013]. Then we can transition to growth strategies, by this comes later.
 
 <br>

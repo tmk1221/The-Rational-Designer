@@ -28,7 +28,7 @@ Hypothesis testing is another function of inferential statistics. For example, w
 
 <br> <br> <br>
 
-## Introduction
+## Usability Testing for Product Design
 In this project, our goal is to compare the usability of three crypto wallets (MetaMask, Argent, and Coinbase). The populations of interest are new users of these three platforms; therefore, we sample these user populations and apply inferential techniques like calculating confidence intervals around all point estimates and testing for statistically significant differences between the three groups. Again, this allows us to make claims about the populations of interest with statistical confidence, based on the sample measurements we collect during the usability tests.
 
 <br>

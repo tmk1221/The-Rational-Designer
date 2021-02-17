@@ -10,7 +10,15 @@ biblio-style: apalike
 link-citations: yes
 ---
 # Introduction {-}
-This is a data science tutorial with seven open-source projects that show how statistics and machine learning can be applied to user survey data. The purpose is not to prescribe techniques, but to demonstrate the use of data science in the context of product design. I’ve compiled what I know on the topic, and hope readers adopt some of these techniques and use them in concert with qualitative research and entrepreneurial thinking to build better products. Let’s quickly preview the seven different use-cases.
+
+<br>
+
+> To my Dad who instilled in me a passion for technology and business innovation. 
+> We both dream of the possibilities of mankind, not from discontent with the present, but from the beauty we perceive in the future.
+
+<br>
+
+This is a data science tutorial with seven open-source projects that show how statistics and machine learning can be applied to user survey data. The purpose is not to prescribe techniques, but to demonstrate the use of data science in the context of product design. I’ve compiled what I know on the topic, and hope readers adopt some of these techniques and use them, in concert with qualitative research and entrepreneurial thinking, to build better products. Let’s quickly talk about the the seven use-cases covered in this tutorial.
 
 <br>
 
@@ -30,7 +38,7 @@ This results in factors, or major problem dimensions, which we can then design a
 </center>
 <br>
 
-Markets are made up of user groups with different product wants and needs. Rather than designing a product for the average user in a market, we can target a specific user group, and design a product optimized to their wants and needs. This is also a good for identifying early-adopter groups and fine-tuning marketing strategies like content and ad-targeting.
+Markets are made up of user groups with different product wants and needs. Rather than designing a product for the average user in a market, we can target a specific user group, and design a product optimized to their wants and needs. This is also good for identifying early-adopter groups and fine-tuning marketing strategies like content and ad-targeting.
 
 <br>
 
@@ -46,7 +54,7 @@ After talking with target users, and studying their problem space, you will like
 
 <br>
 
-The problem is that users will say they “want it all”. We cannot prioritize features when users rank all of them as highly important. **Project \@ref(Project3)** gives a solution to this problem with a technique called Max Diff. It forces users to make trade-offs between the features, and results in relative feature importance. In this way, we can rank order the features from greatest to least importance, and decide which features to include in our product, all based on user input.
+The problem is that users will say they “want it all”. We cannot prioritize features when users rank all of them as highly important. **Project \@ref(Project3)** offers a solution to this problem with a technique called Max Diff. It forces users to make trade-offs between the features, and results in relative feature importance. In this way, we can rank order the features from greatest to least importance, and decide which features to include in our product, all based on user input.
 
 <br>
 <center>
@@ -81,7 +89,3 @@ Finally, in **Project \@ref(Project7)**, we show something called a drivers anal
 ![](./images/0_7.png){width=100%}
 </center>
 <br>
-
-
-
-

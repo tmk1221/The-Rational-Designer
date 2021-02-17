@@ -22,7 +22,7 @@ On the other hand, Choice-Based Conjoint Analysis (see Project \@ref(Project4)) 
 
 <br> <br> <br>
 
-## Introduction
+## Price Optimization for Product Design
 We are the product manager of Product X. Its feature set has been defined, but the product category is nascent - there is no secondary market research data or competitors on which to base our pricing. We need to get an approximate range of acceptable prices for the market we are entering. While the dev team continues the build, we give a survey to 1000 target customers to gauge their price expectations for Product X and help us refine our go-to-market strategy.
 
 <br> <br> <br>

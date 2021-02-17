@@ -36,7 +36,7 @@ The resulting analysis will give us part-worths, or "utilities", for each featur
 
 <br> <br> <br>
 
-## Introduction
+## Choise-Based Conjoint for Product Design
 We are working for a Cloud Services Platform (e.g. Amazon Web Services, Google Cloud, Microsoft Azure) and need to make product design decisions such as core feature-sets, pricing, and tiers of service to optimize revenue or new sign-ups. 
 
 To aide our decision-making we will run a Choice-Based Conjoint study for the "B2C Cloud Platform" category. To keep things simple, each Cloud Platform will be defined on three features and price, for a total of four attributes. Based on our competitive analysis, the attributes can take the following values.

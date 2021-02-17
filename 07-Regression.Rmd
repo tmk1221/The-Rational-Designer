@@ -48,7 +48,7 @@ One of the most important things for us is the sign and the magnitude of the coe
 
 <br> <br> <br>
 
-## Introduction
+## Multiple Linear Regression for Product Design
 Let’s back up a bit and talk about how to select outcome and predictor variables. Put simply, an outcome variable is a metric that is important to your company and something your company wants to improve or influence. This could be something like overall satisfaction with a product or service. It could also be a metric your company tracks such as Customer Satisfaction Score (CSAT) or Net Promoter Score (NPS).
 
 <br>
