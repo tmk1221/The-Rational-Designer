@@ -45,7 +45,7 @@ The problem is that users will say they “want it all”. We cannot prioritize 
 
 <br>
 <center>
-<img src = ./images/0_4.png width = _ height =_>
+<img src = ./images/0_4.jpg width = _ height =_>
 </center>
 <br>
 
@@ -65,7 +65,7 @@ Once your product has been released, you’ll want to measure its user experienc
 
 <br>
 <center>
-<img src = ./images/0_6.png width = _ height =_>
+<img src = ./images/0_6.jpg width = _ height =_>
 </center>
 <br>
 
