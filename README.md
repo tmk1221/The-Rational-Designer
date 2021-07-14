@@ -1,3 +1,4 @@
+# Human Centered Product Design
 <br>
 
 > To my Dad who instilled in me a passion for technology and business innovation. 
@@ -5,11 +6,26 @@
 
 <br>
 
+[Intro Video](https://www.youtube.com/watch?v=WYFdZyAy7JE&ab_channel=techUXD)
+
+<br>
+
+## Table of Contents
+1. [Reveal patterns among user needs with Factor Analysis](01-FactorAnalysis.Rmd) + [video](https://youtu.be/2UBE4kWjCa4)
+2. [Identify target user segments with ML Clustering & Classification](02-ClusteringClassification.Rmd) + [video](https://youtu.be/0AGuk5wWf0k)
+3. [Prioritize product features and benefits with Max Diff](03-MaxDiff.Rmd) + [video](https://youtu.be/6MoKftRx5ss)
+4. [Optimize feature sets with Choice-Based Conjoint & Market-Simulators](04-CBC.Rmd) + [video](https://youtu.be/hdP6vA-3LfU)
+5. [Maximize adoption and revenue with the Price Sensitivity Meter](05-PSM.Rmd) + [video](https://youtu.be/LOSMjj3pT38)
+6. [Measure UX and track product improvement with Usability Testing](06-UsabilityTesting.Rmd) + [video](https://youtu.be/-ChKZXk-7SM)
+7. [Discover dissatisfaction drivers with Multiple Linear Regression](07-Regression.Rmd) + [video](https://youtu.be/MhqEiBm6nNg)
+
+<br>
+
 This is a data science tutorial with seven open-source projects that show how statistics and machine learning can be applied to user survey data. The purpose is not to prescribe techniques, but to demonstrate the use of data science in the context of product design. I’ve compiled what I know on the topic, and hope readers adopt some of these techniques and use them, in concert with qualitative research and entrepreneurial thinking, to build better products. Let’s quickly talk about the the seven use-cases covered in this tutorial.
 
 <br>
 
-First, we must develop an understanding of the market and the problem space being designed for. This type of activity will generate a long list of specific user pain points and unmet needs. In **Project \@ref(Project1)**, we use factor analysis to reveal patterns among these pain points and unmet needs. 
+First, we must develop an understanding of the market and the problem space being designed for. This type of activity will generate a long list of specific user pain points and unmet needs. In [Project 1](01-FactorAnalysis.Rmd), we use factor analysis to reveal patterns among these pain points and unmet needs. 
 
 <br>
 <center>
@@ -29,7 +45,7 @@ Markets are made up of user groups with different product wants and needs. Rathe
 
 <br>
 
-In **Project \@ref(Project2)**, we show how to do this and segment a market into its constituent user groups using a machine learning technique called clustering. Users are grouped together based on their product attitudes and usage. The goal is to maximize the similarity of users in a group, while maximizing dissimilarity with users in other groups. In this way, we get distinct user groups with different product wants and needs from one another. We can then target user groups based on market opportunity and alignment with our product vision.
+In [Project 2](02-ClusteringClassification.Rmd), we show how to do this and segment a market into its constituent user groups using a machine learning technique called clustering. Users are grouped together based on their product attitudes and usage. The goal is to maximize the similarity of users in a group, while maximizing dissimilarity with users in other groups. In this way, we get distinct user groups with different product wants and needs from one another. We can then target user groups based on market opportunity and alignment with our product vision.
 
 <br>
 <center>
@@ -41,19 +57,20 @@ After talking with target users, and studying their problem space, you will like
 
 <br>
 
-The problem is that users will say they “want it all”. We cannot prioritize features when users rank all of them as highly important. **Project \@ref(Project3)** offers a solution to this problem with a technique called Max Diff. It forces users to make trade-offs between the features, and results in relative feature importance. In this way, we can rank order the features from greatest to least importance, and decide which features to include in our product, all based on user input.
+The problem is that users will say they “want it all”. We cannot prioritize features when users rank all of them as highly important. [Project 3](03-MaxDiff.Rmd) offers a solution to this problem with a technique called Max Diff. It forces users to make trade-offs between the features, and results in relative feature importance. In this way, we can rank order the features from greatest to least importance, and decide which features to include in our product, all based on user input.
 
 <br>
 <center>
 <img src = ./images/0_4.jpg width = _ height =_>
 </center>
 <br>
+04-CBC.Rmd
 
-**Project \@ref(Project4)** builds on this, and provides a more sophisticated way for deciding on the feature sets and pricing tiers to offer, using a technique called Choice-Based Conjoint (CBC). Basically, a product can be broken down into its constituent parts, like individual features, price and brand, and CBC shows us how users value each of these parts when making their purchase decision. This reveals which product attributes are most important to users, and which feature combinations will perform best in the market. CBC results in dynamic product design tools like market simulators and sensitivity plots, which allow us to predict how a product will perform in a market, given its specific feature set and price.
+[Project 4](04-CBC.Rmd) builds on this, and provides a more sophisticated way for deciding on the feature sets and pricing tiers to offer, using a technique called Choice-Based Conjoint (CBC). Basically, a product can be broken down into its constituent parts, like individual features, price and brand, and CBC shows us how users value each of these parts when making their purchase decision. This reveals which product attributes are most important to users, and which feature combinations will perform best in the market. CBC results in dynamic product design tools like market simulators and sensitivity plots, which allow us to predict how a product will perform in a market, given its specific feature set and price.
 
 <br>
 
-Pricing can be tricky, especially for novel products and categories. Once we have a clearly defined product concept, we can capture price expectations from our target customers. **Project \@ref(Project5)** shows lightweight price optimization techniques that can be done with 6 survey questions or less. Price can be optimized in several different ways. For example, an early-stage startup may want to slightly lower the price of its product in order to maximize user adoption, and establish a network effect as soon as possible. In other cases, companies may want to be more direct and price the product for maximum revenue.
+Pricing can be tricky, especially for novel products and categories. Once we have a clearly defined product concept, we can capture price expectations from our target customers. [Project 5](05-PSM.Rmd) shows lightweight price optimization techniques that can be done with 6 survey questions or less. Price can be optimized in several different ways. For example, an early-stage startup may want to slightly lower the price of its product in order to maximize user adoption, and establish a network effect as soon as possible. In other cases, companies may want to be more direct and price the product for maximum revenue.
 
 <br>
 <center>
@@ -61,7 +78,7 @@ Pricing can be tricky, especially for novel products and categories. Once we hav
 </center>
 <br>
 
-Once your product has been released, you’ll want to measure its user experience and compare its performance with competitors. This will reveal areas of strength and weakness, indicating where to focus product improvement efforts during the next design sprint. Also, we can track user experience across different releases, which allows us to verify product improvements and get an ROI metric for our design decisions. We show how to do this with usability testing and inferential statistics in **Project \@ref(Project6)**, resulting in a scorecard (shown below).
+Once your product has been released, you’ll want to measure its user experience and compare its performance with competitors. This will reveal areas of strength and weakness, indicating where to focus product improvement efforts during the next design sprint. Also, we can track user experience across different releases, which allows us to verify product improvements and get an ROI metric for our design decisions. We show how to do this with usability testing and inferential statistics in [Project 6](06-UsabilityTesting.Rmd), resulting in a scorecard (shown below).
 
 <br>
 <center>
@@ -69,7 +86,7 @@ Once your product has been released, you’ll want to measure its user experienc
 </center>
 <br>
 
-Finally, in **Project \@ref(Project7)**, we show something called a drivers analysis, which uses a technique called multiple linear regression to reveal the features in our product that “drive” satisfaction or dissatisfaction. This tells us which features are most impactful to the user experience as a whole, and gives us a roadmap for which features to improve in the next design sprint.
+Finally, in [Project 7](07-Regression.Rmd), we show something called a drivers analysis, which uses a technique called multiple linear regression to reveal the features in our product that “drive” satisfaction or dissatisfaction. This tells us which features are most impactful to the user experience as a whole, and gives us a roadmap for which features to improve in the next design sprint.
 
 <br>
 <center>
