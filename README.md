@@ -1,12 +1,13 @@
-# Human Centered Product Design
-<br>
-
-> To my Dad who instilled in me a passion for technology and business innovation. 
-> We both dream of the possibilities of mankind, not from discontent with the present, but from the beauty we perceive in the future.
+# Data Science for Human Centered Product Design
 
 <br>
 
 [Intro Video](https://www.youtube.com/watch?v=WYFdZyAy7JE&ab_channel=techUXD)
+
+<br>
+
+> To my Dad who instilled in me a passion for technology and business innovation. 
+> We both dream of the possibilities of mankind, not from discontent with the present, but from the beauty we perceive in the future.
 
 <br>
 
