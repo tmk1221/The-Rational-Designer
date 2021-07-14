@@ -13,7 +13,7 @@ First, we must develop an understanding of the market and the problem space bein
 
 <br>
 <center>
-![](./images/0_1.png)
+<img src = ./images/0_1.png width = _ height =_>
 </center>
 <br>
 
@@ -21,7 +21,7 @@ This results in factors, or major problem dimensions, which we can then design a
 
 <br>
 <center>
-![](./images/0_2.png){width=100%}
+<img src = ./images/0_2.png width = _ height =_>
 </center>
 <br>
 
@@ -33,7 +33,7 @@ In **Project \@ref(Project2)**, we show how to do this and segment a market into
 
 <br>
 <center>
-![](./images/0_3.jpg){width=100%}
+<img src = ./images/0_3.jpg width = _ height =_>
 </center>
 <br>
 
@@ -45,7 +45,7 @@ The problem is that users will say they “want it all”. We cannot prioritize 
 
 <br>
 <center>
-![](./images/0_4.png){width=100%}
+<img src = ./images/0_4.png width = _ height =_>
 </center>
 <br>
 
@@ -57,7 +57,7 @@ Pricing can be tricky, especially for novel products and categories. Once we hav
 
 <br>
 <center>
-![](./images/0_5.png){width=100%}
+<img src = ./images/0_5.png width = _ height =_>
 </center>
 <br>
 
@@ -65,7 +65,7 @@ Once your product has been released, you’ll want to measure its user experienc
 
 <br>
 <center>
-![](./images/0_6.png){width=100%}
+<img src = ./images/0_6.png width = _ height =_>
 </center>
 <br>
 
@@ -73,6 +73,6 @@ Finally, in **Project \@ref(Project7)**, we show something called a drivers anal
 
 <br>
 <center>
-![](./images/0_7.png){width=100%}
+<img src = ./images/0_7.png width = _ height =_>
 </center>
 <br>
