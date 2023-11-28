@@ -65,7 +65,6 @@ The problem is that users will say they “want it all”. We cannot prioritize 
 <img src = ./images/0_4.jpg width = _ height =_>
 </center>
 <br>
-04-CBC.Rmd
 
 [Project 4](04-CBC.md) builds on this, and provides a more sophisticated way for deciding on the feature sets and pricing tiers to offer, using a technique called Choice-Based Conjoint (CBC). Basically, a product can be broken down into its constituent parts, like individual features, price and brand, and CBC shows us how users value each of these parts when making their purchase decision. This reveals which product attributes are most important to users, and which feature combinations will perform best in the market. CBC results in dynamic product design tools like market simulators and sensitivity plots, which allow us to predict how a product will perform in a market, given its specific feature set and price.
 
