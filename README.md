@@ -1,4 +1,4 @@
-# Data Science for Human Centered Product Design
+# The Rational Designer: MLUX for Discovery and Usability
 
 <br>
 
@@ -22,7 +22,7 @@
 
 <br>
 
-This is a data science tutorial with seven open-source projects that show how statistics and machine learning can be applied to user survey data. The purpose is not to prescribe techniques, but to demonstrate the use of data science in the context of product design. I’ve compiled what I know on the topic, and hope readers adopt some of these techniques and use them, in concert with qualitative research and entrepreneurial thinking, to build better products. Let’s quickly talk about the the seven use-cases covered in this tutorial.
+This is a MLUX tutorial with seven open-source projects that show how statistics and machine learning can be applied to user survey data. The purpose is not to prescribe techniques, but to demonstrate the use of data science in the context of product design. I’ve compiled what I know on the topic, and hope readers adopt some of these techniques and use them, in concert with qualitative research and entrepreneurial thinking, to build better products. Let’s quickly talk about the the seven use-cases covered in this tutorial.
 
 <br>
 
